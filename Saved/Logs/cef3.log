@@ -1,0 +1,24 @@
+[6552:12888:0911/205120.356:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6552:12888:0911/205120.727:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6552:12888:0911/205121.911:ERROR:interface_endpoint_client.cc(722)] Message 2 rejected by interface blink.mojom.Widget
+[5356:22496:0911/205123.782:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5356:22496:0911/205123.805:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5356:22496:0911/205136.366:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5356:22496:0911/205144.808:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6552:2608:0911/205325.155:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/205423.704:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/210236.537:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/210628.955:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/213239.233:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/213632.395:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/220241.693:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/220636.292:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:12888:0911/223221.926:ERROR:device_event_log_impl.cc(196)] [22:32:21.884] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6552:2608:0911/223225.241:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/223327.404:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/223639.257:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:12888:0911/224930.347:ERROR:device_event_log_impl.cc(196)] [22:49:28.889] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6552:12888:0911/224930.676:ERROR:device_event_log_impl.cc(196)] [22:49:30.415] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6552:2608:0911/230325.137:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:2608:0911/230642.438:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6552:12888:0911/230754.172:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
