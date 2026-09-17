@@ -3347,3 +3347,241 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.17-04.06.57:771][399]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.09.17-04.06.57:771][399]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.09.17-04.06.57:771][399]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.17-04.07.39:338][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11892.576172
+[2026.09.17-04.07.40:338][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.17-04.07.40:338][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11893.243164, Update Interval: 359.179657
+[2026.09.17-04.10.08:193][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.17-04.10.08:206][793]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.17-04.10.08:206][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.17-04.10.08:207][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestEnvioronment
+[2026.09.17-04.10.08:215][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007778s)
+[2026.09.17-04.10.08:215][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestEnvioronment.TestEnvioronment to /Game/Maps/UEDPIE_0_TestEnvioronment.TestEnvioronment (0.007856s)
+[2026.09.17-04.10.08:279][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2026.09.17-04.10.08:282][793]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvioronment
+[2026.09.17-04.10.08:285][793]LogPlayLevel: PIE: World Init took: (0.003368s)
+[2026.09.17-04.10.08:285][793]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.17-04.10.08:285][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.17-04.10.08:285][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.17-04.10.08:285][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.17-04.10.08:285][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.17-04.10.08:286][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.17-04.10.08:286][793]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.17-04.10.08:293][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (High Definition Audio Device)'
+[2026.09.17-04.10.08:294][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.09.17-04.10.08:296][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (High Definition Audio Device)'
+[2026.09.17-04.10.08:298][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.09.17-04.10.08:299][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='ヘッドホン (Oculus Virtual Audio Device)'
+[2026.09.17-04.10.08:300][793]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Headset Microphone (Oculus Virtual Audio Device)'
+[2026.09.17-04.10.08:308][793]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.17-04.10.08:308][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.17-04.10.08:308][793]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.17-04.10.08:310][793]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.17-04.10.08:313][793]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.17-04.10.08:313][793]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.17-04.10.08:313][793]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.17-04.10.08:313][793]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.09.17-04.10.08:313][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.17-04.10.08:313][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.17-04.10.08:313][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.17-04.10.08:315][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.09.17-04.10.08:319][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.09.17-04.10.08:324][793]LogInit: FAudioDevice initialized with ID 14.
+[2026.09.17-04.10.08:324][793]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestEnvioronment'.
+[2026.09.17-04.10.08:324][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.09.17-04.10.08:325][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.17-04.10.08:330][793]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.17-04.10.08:332][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestEnvioronment.TestEnvioronment up for play (max tick rate 0) at 2026.09.16-23.10.08
+[2026.09.17-04.10.08:333][793]LogWorld: Bringing up level for play took: 0.002186
+[2026.09.17-04.10.08:337][793]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.09.17-04.10.08:338][793]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.17-04.10.08:341][793]PIE: Server logged in
+[2026.09.17-04.10.08:345][793]PIE: Play in editor total start time 0.138 seconds.
+[2026.09.17-04.10.08:419][794]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.17-04.10.10:294][914]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 1
+[2026.09.17-04.10.10:948][958]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 2
+[2026.09.17-04.10.35:146][588]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 90.0
+[2026.09.17-04.10.35:396][607]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 80.0
+[2026.09.17-04.10.35:646][625]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 70.0
+[2026.09.17-04.10.35:892][641]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 60.0
+[2026.09.17-04.10.36:153][661]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 50.0
+[2026.09.17-04.10.43:391][157]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 40.0
+[2026.09.17-04.10.43:637][173]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 30.0
+[2026.09.17-04.10.43:899][192]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 20.0
+[2026.09.17-04.10.44:155][210]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 10.0
+[2026.09.17-04.10.44:389][226]LogBlueprintUserMessages: [BP_PlayerChar_C_0] 0.0
+[2026.09.17-04.10.44:389][226]Cmd: quit
+[2026.09.17-04.10.44:391][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.17-04.10.44:391][226]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestEnvioronment
+[2026.09.17-04.10.44:391][226]LogWorld: UWorld::CleanupWorld for TestEnvioronment, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.10.44:393][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.10.44:397][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.17-04.10.44:406][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.10.44:459][226]LogAudio: Display: Audio Device unregistered from world 'TestEnvioronment'.
+[2026.09.17-04.10.44:460][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.09.17-04.10.44:460][226]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=14, StreamState=4
+[2026.09.17-04.10.44:471][226]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.17-04.10.44:475][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.17-04.10.44:481][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2026.09.17-04.10.44:611][227]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.09.17-04.10.52:459][872]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.10.52:459][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.10.52:707][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.09.17-04.10.52:961][892]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.17-04.10.52:961][892]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.10.52:961][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.10.53:111][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.09.17-04.10.58:196][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.17-04.10.58:196][291]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.10.58:196][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.10.58:356][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.09.17-04.11.07:510][ 19]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.17-04.11.07:510][ 19]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.11.07:510][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.11.07:656][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2026.09.17-04.11.15:795][648]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.17-04.11.15:795][648]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.11.15:795][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.11.15:907][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.09.17-04.11.20:024][925]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.17-04.11.20:024][925]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.11.20:024][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.11.20:122][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.09.17-04.11.23:626][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerChar.BP_PlayerChar
+[2026.09.17-04.11.41:550][183]LogBlueprint: Compiling Blueprint '/Game/Player/BP_PlayerChar.BP_PlayerChar'
+[2026.09.17-04.11.41:715][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.09.17-04.12.16:506][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2026.09.17-04.12.20:079][710]LogSlate: Window 'Save Content' being destroyed
+[2026.09.17-04.12.20:115][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-04.12.20:150][710]LogFileHelpers: Saving Package: /Game/Player/BP_PlayerChar
+[2026.09.17-04.12.20:150][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2026.09.17-04.12.20:151][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2026.09.17-04.12.20:151][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2026.09.17-04.12.20:176][710]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2026.09.17-04.12.20:176][710]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Saved/BP_PlayerChar14652CD4476AEAE5069F08ABEED59147.tmp' to 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerChar.uasset'
+[2026.09.17-04.12.20:178][710]LogFileHelpers: Saving Package: /Game/enemy/BP_Turret
+[2026.09.17-04.12.20:179][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/enemy/BP_Turret] ([2] browsable assets)...
+[2026.09.17-04.12.20:238][710]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/enemy/BP_Turret.BP_Turret]
+[2026.09.17-04.12.20:238][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy/BP_Turret]
+[2026.09.17-04.12.20:238][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/BP_Turret" FILE="C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/enemy/BP_Turret.uasset" SILENT=true
+[2026.09.17-04.12.20:255][710]LogSavePackage: Moving output files for package: /Game/enemy/BP_Turret
+[2026.09.17-04.12.20:255][710]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Saved/BP_TurretAEA5C1654DC07FD824EE8AAA984E0DB3.tmp' to 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/enemy/BP_Turret.uasset'
+[2026.09.17-04.12.20:262][710]LogFileHelpers: Saving Package: /Game/enemy/BP_TurretProjectile
+[2026.09.17-04.12.20:262][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/enemy/BP_TurretProjectile] ([2] browsable assets)...
+[2026.09.17-04.12.20:275][710]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/enemy/BP_TurretProjectile.BP_TurretProjectile]
+[2026.09.17-04.12.20:275][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy/BP_TurretProjectile]
+[2026.09.17-04.12.20:275][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy/BP_TurretProjectile" FILE="C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/enemy/BP_TurretProjectile.uasset" SILENT=true
+[2026.09.17-04.12.20:289][710]LogSavePackage: Moving output files for package: /Game/enemy/BP_TurretProjectile
+[2026.09.17-04.12.20:289][710]LogSavePackage: Moving 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Saved/BP_TurretProjectileD84ED7854236FA868277839A97024ACA.tmp' to 'C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/enemy/BP_TurretProjectile.uasset'
+[2026.09.17-04.12.20:306][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.319 ms (total: 669.643 ms)
+[2026.09.17-04.12.20:389][710]LogStall: Shutdown...
+[2026.09.17-04.12.20:397][710]LogStall: Shutdown complete.
+[2026.09.17-04.12.20:459][710]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.12.20:459][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.12.20:491][710]LogSlate: Window 'StealthGame - Unreal Editor' being destroyed
+[2026.09.17-04.12.20:593][710]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/recent-projects.
+[2026.09.17-04.12.20:922][710]LogContentValidation: Enabled validators:
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.17-04.12.20:922][710]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.17-04.12.20:922][710]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.09.17-04.12.20:922][710]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.17-04.12.20:922][710]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2026.09.17-04.12.20:923][710]AssetCheck: /Game/enemy/BP_Turret Validating asset
+[2026.09.17-04.12.20:923][710]AssetCheck: /Game/enemy/BP_TurretProjectile Validating asset
+[2026.09.17-04.12.20:923][710]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.17-04.12.20:923][710]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.17-04.12.21:018][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.09.17-04.12.21:040][710]Cmd: QUIT_EDITOR
+[2026.09.17-04.12.21:041][710]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.17-04.12.21:041][710]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-04.12.21:071][711]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.17-04.12.21:072][711]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.17-04.12.21:072][711]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.17-04.12.21:090][711]LogWorld: UWorld::CleanupWorld for TestEnvioronment, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.12.21:090][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.12.21:091][711]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.09.17-04.12.21:112][711]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.09.17-04.12.21:112][711]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.17-04.12.21:158][711]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.17-04.12.21:246][711]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.12.21:246][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.12.21:250][711]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.12.21:250][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.12.21:255][711]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-04.12.21:255][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-04.12.21:261][711]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.17-04.12.21:264][711]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.17-04.12.22:025][711]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.09.17-04.12.22:025][711]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.17-04.12.22:025][711]LogAudio: Display: Audio Device unregistered from world 'TestEnvioronment'.
+[2026.09.17-04.12.22:025][711]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.17-04.12.22:025][711]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.09.17-04.12.22:038][711]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.17-04.12.22:046][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.17-04.12.22:046][711]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.17-04.12.22:064][711]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.17-04.12.22:065][711]LogExit: Preparing to exit.
+[2026.09.17-04.12.22:485][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2026.09.17-04.12.22:489][711]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.17-04.12.23:013][711]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.17-04.12.23:014][711]LogAssetRegistry: Display:   CachedAssetRegistry_0_71D32CEB4E15CC35675A66ABDEFF8E9F.bin: delete failed (orphaned but still in use)
+[2026.09.17-04.12.23:014][711]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 2 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 1 orphans locked (kept)
+[2026.09.17-04.12.23:018][711]LogEditorDataStorage: Deinitializing
+[2026.09.17-04.12.23:020][711]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.09.17-04.12.23:020][711]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.09.17-04.12.23:020][711]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.09.17-04.12.23:020][711]LogEditorDataStorage: Resetting TEDS Core.
+[2026.09.17-04.12.23:025][711]LogEditorDataStorage: Reset TEDS Core.
+[2026.09.17-04.12.23:025][711]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.09.17-04.12.23:277][711]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.17-04.12.23:338][711]LogExit: Editor shut down
+[2026.09.17-04.12.23:348][711]LogExit: Transaction tracking system shut down
+[2026.09.17-04.12.23:978][711]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.17-04.12.23:979][711]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.17-04.12.24:285][711]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.17-04.12.24:285][711]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.17-04.12.24:505][711]LogExit: Object subsystem successfully closed.
+[2026.09.17-04.12.24:544][711]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.17-04.12.25:066][711]LogObjectProfiler: Shutdown
+[2026.09.17-04.12.25:066][711]LogMemoryProfiler: Shutdown
+[2026.09.17-04.12.25:066][711]LogNetworkingProfiler: Shutdown
+[2026.09.17-04.12.25:066][711]LogLoadingProfiler: Shutdown
+[2026.09.17-04.12.25:066][711]LogTimingProfiler: Shutdown
+[2026.09.17-04.12.25:067][711]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.17-04.12.25:067][711]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.17-04.12.25:067][711]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.09.17-04.12.25:067][711]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.09.17-04.12.25:067][711]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.09.17-04.12.25:538][711]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.17-04.12.25:547][711]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.17-04.12.25:547][711]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34BB42FB-4E68-8E7A-E9CF-6B92884AE774%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=57833e8e4a4eec667176d18734ec48fa%7C71da2f3d136f43db9979e3826571649c%7C4ff09050-4340-40a4-a774-31d0dd946fda&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.17-04.12.26:072][711]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.17-04.12.26:072][711]RenderDocPlugin: plugin has been unloaded.
+[2026.09.17-04.12.26:081][711]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.17-04.12.26:102][711]LogPakFile: Destroying PakPlatformFile
+[2026.09.17-04.12.26:515][711]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.17-04.12.26:561][711]LogExit: Exiting.
+[2026.09.17-04.12.26:593][711]Log file closed, 09/16/26 23:12:26
