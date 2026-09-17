@@ -6,6 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/StealthGame_HLOD0_Instancing.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Maps/TestEnvioronment.umap",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/BP_Interactable_Pickup.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_GameMode.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Look.uasset",
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/__ExternalActors__/StealthGame/6/E8/JZFSSAOBHAXOGT0LRS5ETY.uasset",
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/__ExternalObjects__/StealthGame/3/SV/HD4PJL3HVPDO5KKIH9QTKY.uasset",
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/__ExternalObjects__/StealthGame/A/HU/0T6OGRZZLOR0HF4Y975K4I.uasset",
@@ -87,19 +100,7 @@
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/__ExternalActors__/StealthGame/1/II/Y967OXJSQK1GF31IATSQMF.uasset",
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/__ExternalActors__/StealthGame/9/4I/OT9HKH589MLNUJZZO8BOKU.uasset",
 				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/StealthGame.umap",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Maps/TestEnvioronment.umap",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Movement.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Jump.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Mapping_Player.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerChar.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_PlayerCont.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/Interact.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/BP_Interactable_Pickup.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interfaces/Interface_Interact.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Player/BP_GameMode.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/BP_PhysicsPickup.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Interact.uasset",
-				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Inputs/Input_Look.uasset"
+				"C:/Users/user/OneDrive/Documents/Unreal Projects/StealthGame/Content/Interactables/Interact.uasset"
 			]
 		}
 	]
